@@ -42,11 +42,6 @@
             <artifactId>geronimo-servlet_3.0_spec</artifactId>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-  			<groupId>com.ibm.websphere.appserver.runtime</groupId>
-  			<artifactId>wlp-javaee7</artifactId>
-  			<version>16.0.0.3</version>
-		</dependency>
     </dependencies>
 
     <build>
